@@ -15,7 +15,7 @@ export const metadata = {
       <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
       <body className='bg-gray-100'>
-        <Navbar_1/>
+      
         {children}</body>
     </html>
   )
