@@ -7,7 +7,7 @@ const page = () => {
     <div>
       <div className='flex justify-around items-center flex-wrap'>
         <div className='w-80 h-80'>
-          <img src='https://images.pexels.com/photos/36717/amazing-animal-beautiful-beautifull.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' className='w-full h-80'/>
+          <img src='https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/p/f/f/s-tsrt-catalog-03-kajaru-original-imagqktmfsngyvsg.jpeg?q=70' className='w-full h-80'/>
         </div>
 
           <div className=' flex-1 max-w-md border rounded-md shadow-lg p-6 bg-white'>

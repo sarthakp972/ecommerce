@@ -7,7 +7,7 @@ const ProductCard = () => {
             {/* Card */}
             <div className='m-4 flex flex-wrap gap-2'>
                 <Link href="/product/p1" className='w-full sm:w-64 h-60 rounded border border-gray-200 hover:cursor-pointer hover:shadow-2xl'>
-                    <img src='' className='w-full h-36' />
+                    <img src='https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/p/f/f/s-tsrt-catalog-03-kajaru-original-imagqktmfsngyvsg.jpeg?q=70' className='w-full h-36' />
                     <div className='flex justify-between flex-wrap'>
                         <div>
                             <h1 className='font-bold'>Coding shirt 1</h1>
