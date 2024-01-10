@@ -1,14 +1,17 @@
-import Link from 'next/link';
+ import Link from 'next/link';
 import React from 'react'
+import Navbar_1 from '../Components/Navbar_1';
 
 const page = () => {
     let cartcount = 1;
     return (
-
-        <div className='m-5 px-20'>
+        <>
+         <Navbar_1/>
+        <div className='m-5 p-1 '>
 
             {cartcount > 0 ? (
                 <>
+               
                     <div>
                         <h2 className='text-4xl semibold'>Cart Items:{cartcount}</h2>
                         <button className='text-orange-400 font-bold mt-2 hover:text-red-600'>
@@ -85,6 +88,7 @@ const page = () => {
             }
 
         </div>
+        </>
     )
 }
 
